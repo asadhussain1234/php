@@ -27,6 +27,7 @@ $sem=$_POST["radio1"];
 <th>Batch Code</th>
 <th>Timings</th>
 <th>Semester</th>
+  <th>earning</th>
 </tr>
 
 <tr>
